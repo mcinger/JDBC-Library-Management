@@ -1,8 +1,7 @@
-1.Upzip the file
-2.Open myeclipse, File->Import enter Select window
-3.Choose general->Existing Projects into Workspace->next
-4.Select root directory-> Brower -> choose the file
-5.choose Copy projects into workspace
+1.Open myeclipse, File->Import enter Select window
+2.Choose general->Existing Projects into Workspace->next
+3.Select root directory-> Brower -> choose the file
+4.choose Copy projects into workspace
 
 import the sql file into mysql. If it doesn't work, you can use txt file to import all thye data.
 
